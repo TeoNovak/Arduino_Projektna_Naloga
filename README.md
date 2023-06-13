@@ -23,7 +23,7 @@ Tekočina med dvema nivojema: Magnetni ventil MV1 (natakanje - utripanje zelene 
 
 6. Datoteka .ino je priložena zraven.
 
-7. Videoposnetek delovanja najinega projektna:
+7. Videoposnetek delovanja najinega projektna ( je dodan kot file isto kot koda za projekt zaradi velikosti):
 
 
 8. 
