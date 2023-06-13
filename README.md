@@ -21,7 +21,7 @@ Tekočina med dvema nivojema: Magnetni ventil MV1 (natakanje - utripanje zelene 
 5. Slika vezja (.png):
 ![image](https://github.com/TeoNovak/Arduino_Projektna_Naloga/assets/135325771/a4a852b0-deef-4c93-a848-593968d52ff0)
 
-6. Datoteka .ino - končna C++ koda:
+6. Datoteka .ino je priložena zraven.
 
 7. Videoposnetek delovanja najinega projektna:
 
